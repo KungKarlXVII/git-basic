@@ -1,4 +1,6 @@
 CocaCola
+Milk
+Tea
 Beer
 Whisky
 Rum
